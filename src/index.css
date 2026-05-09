@@ -25,10 +25,12 @@ body {
   background-color: var(--bg-main);
   color: var(--text-primary);
   line-height: 1.7;
+  min-width: 1180px;
 }
 
 .app {
   min-height: 100vh;
+  min-width: 1180px;
 }
 
 /* =====================
@@ -593,109 +595,4 @@ body {
   width: 1.6rem;
   color: var(--accent);
   font-weight: 600;
-}
-
-/* =====================
-   响应式
-===================== */
-@media (max-width: 1024px) {
-  .gallery {
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1.2rem;
-  }
-
-  .card {
-    margin-bottom: 0;
-  }
-
-  .about-content {
-    grid-template-columns: 1fr;
-    gap: 3rem;
-  }
-
-  .about-image {
-    order: -1;
-  }
-
-  .about-image img {
-    max-width: 350px;
-  }
-}
-
-@media (max-width: 768px) {
-  .hero {
-    grid-template-columns: 1fr;
-    gap: 2.5rem;
-    padding: 3rem 1.5rem;
-    min-height: auto;
-    padding-top: 5rem;
-    padding-bottom: 4rem;
-  }
-
-  .hero-visual {
-    min-height: 260px;
-  }
-
-  .portfolio-mark {
-    width: min(100%, 300px);
-  }
-
-  .hero-title {
-    font-size: 2.5rem;
-  }
-
-  .hero-bio {
-    font-size: 1rem;
-  }
-
-  .about {
-    padding: 3rem 1.5rem;
-  }
-
-  .about-kicker {
-    top: 1.2rem;
-    left: 1.5rem;
-  }
-
-  .works-section {
-    padding: 2rem 1.5rem 1rem;
-    overflow-x: auto;
-  }
-
-  .tabs {
-    flex-wrap: nowrap;
-    padding-bottom: 0.5rem;
-  }
-
-  .main {
-    padding: 1.5rem;
-  }
-
-  .gallery {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-  }
-
-  .card {
-    margin-bottom: 0;
-  }
-}
-
-@media (max-width: 520px) {
-  .hero-buttons {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .btn {
-    text-align: center;
-  }
-
-  .gallery {
-    grid-template-columns: 1fr;
-  }
-
-  .modal-overlay {
-    padding: 1rem;
-  }
 }
