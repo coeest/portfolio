@@ -22,7 +22,7 @@ export const posters = [
     id: 'p1',
     title: '海报1',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fbfacbad34ed145d013848a17573b5a39e4ee443295f1bb1f3d844f150447ad55..jpeg?Expires=1778397074&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=3Wl70RkYGSUjaq1HJiRSl1y%2BEEE%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144851_1_8.jpg'),
     date: '2026-05-09',
     tags: ['校园', '活动']
   },
@@ -30,7 +30,7 @@ export const posters = [
     id: 'p3',
     title: '海报2',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fc19c827314a1cb1a1c2a053262808553aa095ba88ff42d880d9d387ea41f40d8..jpeg?Expires=1778397075&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=8XcA9Ce%2B%2Fn2MIFyy4%2FfYpNN%2FVGY%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144853_6_8.jpg'),
     date: '2026-05-09',
     tags: ['社团', '招募']
   },
@@ -38,7 +38,7 @@ export const posters = [
     id: 'p4',
     title: '海报3',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F651456b704466ec3a4feac217ee47a7d5373d688a72488a1896abeb21ae8838a..jpeg?Expires=1778397076&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=gKTsMIcotJphXuSqivpFHIARc3w%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144856_7_8.png'),
     date: '2026-05-09',
     tags: ['比赛', '宣传']
   },
@@ -46,7 +46,7 @@ export const posters = [
     id: 'p5',
     title: '海报4',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F7824a1f578ebc2604f010f53e0670316a86134b3e482f650d1962201a3c2415e..jpeg?Expires=1778397076&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=17GGvL2YgxkmDrjMGvYCkF3O%2B9A%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144857_8_8.jpg'),
     date: '2026-05-09',
     tags: ['毕业', '横幅']
   },
@@ -54,7 +54,7 @@ export const posters = [
     id: 'p6',
     title: '海报5',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fdbce4f920def5296b731a7704b9abf0f0e44a6c403b778b3bee450ae980f945b..jpeg?Expires=1778397077&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=AkpzxSXBmjrV%2BAjI%2FU57ww%2B2HUE%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144858_9_8.jpg'),
     date: '2026-05-09',
     tags: ['周年', '活动']
   },
@@ -62,7 +62,7 @@ export const posters = [
     id: 'p8',
     title: '海报6',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F76c46cce6468d3fa70b8ec2e365f57a70a000cb2b13638c56a42eb5a46ee3e02..jpeg?Expires=1778397078&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=d9AyRdG%2BzJ%2Bwz6EHNJ8WMe6cXRs%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144902_13_8.jpg'),
     date: '2026-05-09',
     tags: ['晚会', '宣传']
   },
@@ -70,7 +70,7 @@ export const posters = [
     id: 'p9',
     title: '海报7',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F190e23f4f10516178595c399648cb44ab758695c95e379a1253313ee6f9f0241..jpeg?Expires=1778397078&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=Hthp%2FlztHVHZbZC3Z3zYpUuWWcU%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144903_14_8.jpg'),
     date: '2026-05-09',
     tags: ['分享会', '活动']
   },
@@ -78,7 +78,7 @@ export const posters = [
     id: 'p10',
     title: '海报8',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fba584deacb835d8c3a4174feadc07db7279a7eefb14ad0b7bc7bf858e15ec923..jpeg?Expires=1778397079&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=Grd%2BMQ7YeFtIz%2BVrX62xil0xMOU%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144905_15_8.jpg'),
     date: '2026-05-09',
     tags: ['分享', '活动']
   },
@@ -86,7 +86,7 @@ export const posters = [
     id: 'p11',
     title: '海报9',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F45d8f305d173089b821acb77f31636e35f81b77a03fa339bd7a99aafe3ea73ed..jpeg?Expires=1778397340&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=EIHx1%2FvG4ooL6e3PN2LOuqoMkt8%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144906_16_8.jpg'),
     date: '2026-05-09',
     tags: ['读书日', '宣传']
   },
@@ -94,7 +94,7 @@ export const posters = [
     id: 'p12',
     title: '海报10',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fc7272578809f8bce4ce6e118d9ff4541aee8549482a0f3c90d3a1bbd52526288..jpeg?Expires=1778397340&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=p414wFsBUTWCFLm1cpYZ%2Fr3tOXA%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144907_17_8.jpg'),
     date: '2026-05-09',
     tags: ['读书', '活动']
   },
@@ -102,7 +102,7 @@ export const posters = [
     id: 'p13',
     title: '海报11',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F0593e0e5b43867c654f7ea70b514f2e3f58357369f9ada38c6dc46b88e6a6eb5..jpeg?Expires=1778397341&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=qnRx9ws9ocd%2B6vX5Te6Y6teCJO0%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144908_18_8.jpg'),
     date: '2026-05-09',
     tags: ['直播', '预告']
   },
@@ -110,7 +110,7 @@ export const posters = [
     id: 'p14',
     title: '海报12',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F543dee3302489ac7832d72248589be0d12e965a180db16b668158e6c70711892..jpeg?Expires=1778397341&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=4I0UvusG5nPFedR21SaU9RxH%2FCE%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144909_19_8.jpg'),
     date: '2026-05-09',
     tags: ['直播', '宣传']
   },
@@ -118,7 +118,7 @@ export const posters = [
     id: 'p15',
     title: '海报13',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F9e41096c5e2263f7cbc452fdf3891a40d7054d8497e0d0c54757dc95dc75b856..jpeg?Expires=1778397342&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=l2FFRHokQDnIO6ATBjov3X6Ay7w%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144910_20_8.jpg'),
     date: '2026-05-09',
     tags: ['赛事', '宣传']
   },
@@ -126,7 +126,7 @@ export const posters = [
     id: 'p16',
     title: '海报14',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Ff55511b6d284d630196753ad46334d82bc6221bd58fa858ce60379c7c7a81b99..jpeg?Expires=1778397342&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=x9n809UcuaEcazUmlMiLt80kOYU%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144911_21_8.jpg'),
     date: '2026-05-09',
     tags: ['比赛', '活动']
   },
@@ -134,7 +134,7 @@ export const posters = [
     id: 'p17',
     title: '海报15',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fca6671dd0a5c9f324933e3dca43e13c5fdecd503599ccb1e6370a55330fccdd3..jpeg?Expires=1778397414&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=NW%2BwuUtRJVtbB7YaUGO3QM1e0C4%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144912_22_8.jpg'),
     date: '2026-05-09',
     tags: ['运动', '活动']
   },
@@ -142,7 +142,7 @@ export const posters = [
     id: 'p18',
     title: '海报16',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F308341de3b4e90a0fafc14093308f246d6d675ae404cddc908006f4a3d6bee68..jpeg?Expires=1778397415&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=a3zYWEvBEbUw2065MatHPIKPxKQ%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144913_23_8.jpg'),
     date: '2026-05-09',
     tags: ['赛事', '宣传']
   },
@@ -150,7 +150,7 @@ export const posters = [
     id: 'p19',
     title: '海报17',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F0808bfde0b04b9f607d869e8f647b5d672a339583b9d0e15c95410e5effb5d10..jpeg?Expires=1778397416&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=KsIb0RfuDS9J%2BoiSrn7xW6LaOss%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144914_24_8.jpg'),
     date: '2026-05-09',
     tags: ['论坛', '宣传']
   },
@@ -158,7 +158,7 @@ export const posters = [
     id: 'p20',
     title: '海报18',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Feed68522732f662ca28b9d9c1ed56d0734029cccafc155c553ee1c43baf55f24..jpeg?Expires=1778397416&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=cZDSy8m0oWVuSUihgiUAjvvKqOg%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144915_25_8.jpg'),
     date: '2026-05-09',
     tags: ['研讨', '活动']
   },
@@ -166,7 +166,7 @@ export const posters = [
     id: 'p21',
     title: '海报19',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F0c463e54ef030420a9f2c7f98b00d7d3fd54ec5ca63ac7889c8331d286e1ecd9..jpeg?Expires=1778397417&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=emKaU%2FYZwY0PA8d6ONTTRFALfXM%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144916_26_8.jpg'),
     date: '2026-05-09',
     tags: ['展览', '宣传']
   },
@@ -174,7 +174,7 @@ export const posters = [
     id: 'p23',
     title: '海报20',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fabbe37728ac916b10dd474af6e2e7acb3c34793d855b9fa37b8c85736f8bcfbe..jpeg?Expires=1778397418&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=A1%2FXqC%2FCcGMf2Xv%2BABLwUt2bUJw%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144918_28_8.jpg'),
     date: '2026-05-09',
     tags: ['市集', '宣传']
   },
@@ -182,7 +182,7 @@ export const posters = [
     id: 'p24',
     title: '海报21',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Ff7511f76c5e41d33e3396b72faa693a1cc7fea4f6212a5782c93bd892641e2d5..jpeg?Expires=1778397419&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=CDmeJRrVcOs%2BMY3yl1AEwDz4JFk%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144918_29_8.png'),
     date: '2026-05-09',
     tags: ['市集', '活动']
   },
@@ -190,7 +190,7 @@ export const posters = [
     id: 'p25',
     title: '海报22',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fd9765eb98dd96c27faf4326fb0a2ddff8cf03dfe44956aa40baca9c4c7c650d9..jpeg?Expires=1778397516&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=rPRWX2pwRaRS5TJPfCS1XurgoAA%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144920_30_8.jpg'),
     date: '2026-05-09',
     tags: ['宣讲', '宣传']
   },
@@ -198,7 +198,7 @@ export const posters = [
     id: 'p26',
     title: '海报23',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F57a51f70df081106b59b5352d8eb25af3c7b5240d100c88eed82dd7349ba3acc..jpeg?Expires=1778397517&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=rN9b9sZfU7m0HQZslJUnf4BK5Ts%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144922_31_8.jpg'),
     date: '2026-05-09',
     tags: ['开幕', '活动']
   },
@@ -206,7 +206,7 @@ export const posters = [
     id: 'p27',
     title: '海报24',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Fcb2d433a7b5a028eb0f66842289d3d7ed2a33c0c6def3e2aba95d04e22501606..jpeg?Expires=1778397517&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=Hi05Cij%2FF%2BFNED5%2BBLPm51Ws%2FFE%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144923_32_8.jpg'),
     date: '2026-05-09',
     tags: ['开幕', '宣传']
   },
@@ -214,7 +214,7 @@ export const posters = [
     id: 'p28',
     title: '海报25',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F4d6f9fdd4a480b7f147ce992123e22e6851f3555d9c5003e41ac401f7581b8ee..jpeg?Expires=1778397518&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=QArKFgIR0wQYyzUwYUdWPvFxU6Q%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144924_33_8.jpg'),
     date: '2026-05-09',
     tags: ['迎新', '活动']
   },
@@ -222,7 +222,7 @@ export const posters = [
     id: 'p29',
     title: '海报26',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2F7bc8895871b6420d8c7fb33404544521cd29856fb6bdec61c47af6a8c47fa2e3..jpeg?Expires=1778397518&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=Dr%2BgUUjRrdcVZdNCguMlnn5Js0Y%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144924_34_8.jpg'),
     date: '2026-05-09',
     tags: ['迎新', '宣传']
   },
@@ -230,7 +230,7 @@ export const posters = [
     id: 'p30',
     title: '海报27',
     description: '',
-    image: 'https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-05-09%2FMiniMax-M2.5%2F2024625063227036112%2Faa3bed345fbb2e511288f0510c57ebf7c6880bd080451492a0b492eb0d6f66d0..jpeg?Expires=1778397519&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=dwdR%2B%2BwtHVLSxNKdd3g3nSxtRQc%3D',
+    image: asset('assets/作业帮海报制作/微信图片_20260509144925_35_8.jpg'),
     date: '2026-05-09',
     tags: ['纳新', '宣传']
   }
